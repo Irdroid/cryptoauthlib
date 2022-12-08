@@ -1,7 +1,6 @@
 /etc/udev/rules.d//11-tiny.rules
 /etc/cryptoauthlib/cryptoauthlib.conf
 /var/lib/cryptoauthlib//0.conf
-/var/lib/cryptoauthlib/slot.conf.tmpl
 /usr/lib/libcryptoauth.so
 /usr/include/cryptoauthlib/atca_basic.h
 /usr/include/cryptoauthlib/atca_bool.h

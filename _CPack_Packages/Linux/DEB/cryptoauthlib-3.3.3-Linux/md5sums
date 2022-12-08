@@ -71,3 +71,4 @@ a22ced1c160019af4f2a3060dc847d20  usr/usr/include/cryptoauthlib/pkcs11/pkcs11_se
 70ab0cfa9019e619571623d2ec8355d3  usr/usr/include/cryptoauthlib/pkcs11/pkcs11f.h
 cd53aaec8d1d77324e7f35fe7991b90c  usr/usr/include/cryptoauthlib/pkcs11/pkcs11t.h
 7e243691273267237eb0702172096776  usr/usr/include/cryptoauthlib/pkcs11_config.h
+8902e31eca0f0d5b9107caea6a821643  var/lib/cryptoauthlib/0.conf
